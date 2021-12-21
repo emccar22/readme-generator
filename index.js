@@ -21,7 +21,7 @@ const questions = [
     {
        type: 'input',
        name: 'description',
-       message: 'Please enter aa description of your project (Required)',
+       message: 'Please enter a description of your project (Required)',
        validate: descriptionInput => {
            if (descriptionInput) {
                return true;
