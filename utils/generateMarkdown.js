@@ -349,7 +349,7 @@ renderTestsSection = testsText => {
   if (!testsText) {
     return '';
   }
-  return `##Tests
+  return `## Tests
 ${testsText}
 `;
 }

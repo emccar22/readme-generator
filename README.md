@@ -17,17 +17,17 @@ This project was designed as a simple way to make a descriptive complete README 
 
 ## Installation
 
-To install clone the repo to your machine run npm init then npm install inquirer
+To install clone the repo to your machine then npm install inquirer
 
 ## Usage
 
 To use it from the command line type node index.js. Then follow the inquirer prompts for the title description etc.  After all prompts are complete it will generate a README.md file in the dist folder.
 
+Video demo: https://drive.google.com/file/d/1j23IVlLiOHa3xaUrtzuybyuyealrzFds/view
 
+## Screenshot 
 
-
-
-
+![screenshot](./images/screenshot.png)
 
 ## Questions
 
